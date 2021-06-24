@@ -1,0 +1,24 @@
+﻿.body
+{
+    background-color:aqua;
+    overflow-y:none;
+    
+}
+
+.form {
+    border: 7px solid #2EC485;
+    
+    overflow-y:scroll;
+    height:50vh;
+    margin-top:10%;
+}
+
+.submit{
+    background-color:coral;
+    border-radius:25px;
+}
+
+.table{
+    margin-left: 40%;
+    margin-top:5%;
+}
